@@ -25,7 +25,6 @@ Here are some of my favorite projects:
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kunalyeole/)
-- [Twitter](https://twitter.com/kunalyeole)
 <!--
 **kunalyeole/kunalyeole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
